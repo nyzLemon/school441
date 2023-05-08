@@ -51,7 +51,7 @@
     <div class="header">
         电脑信息技术教育学校
     </div>
-    <div class="topnav">
+    <div class="nav">
         <a href="README.md">School Profile</a>
         <a href="Course Introduction.html">Course Introduction</a>
         <a href="#">School Life</a>
