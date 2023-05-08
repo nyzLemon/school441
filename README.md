@@ -51,20 +51,14 @@
     <div class="header">
         电脑信息技术教育学校
     </div>
-    <div class="nav">
+    <div class="topnav">
         <a href="README.md">School Profile</a>
         <a href="#">Course Introduction</a>
         <a href="#">School Life</a>
         <a href="#">Contact Us</a>
     </div>
     
-     <div class="topnav">
-        <a class="active"  href="README.md">School Profile</a>
-        <a  href="practice Introduction.html">>Course Introduction</a>
-        <a href="practice picture.html">School Life</a>
-        <a href="practice picture.html">Contact Us</a>
-        
-      </div>
+     
     
     <div class="main">
         <h2>学校价值观</h2>
