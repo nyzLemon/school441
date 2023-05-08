@@ -52,12 +52,20 @@
         电脑信息技术教育学校
     </div>
     <div class="nav">
-        <a href="#">学校概况</a>
-        <a href="#">教学科研</a>
-        <a href="#">校园生活</a>
-        <a href="#">招生就业</a>
-        <a href="#">联系我们</a>
+        <a href="#">School Profile</a>
+        <a href="#">Course Introduction</a>
+        <a href="#">School Life</a>
+        <a href="#">Contact Us</a>
     </div>
+    
+     <div class="topnav">
+        <a class="active"  href="README.md">School Profile</a>
+        <a  href="practice Introduction.html">>Course Introduction</a>
+        <a href="practice picture.html">School Life</a>
+        <a href="practice picture.html">Contact Us</a>
+        
+      </div>
+    
     <div class="main">
         <h2>学校价值观</h2>
         <p>1. 以学生为中心，关注学生的发展和需求。</p>
