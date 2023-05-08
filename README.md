@@ -52,7 +52,7 @@
         电脑信息技术教育学校
     </div>
     <div class="nav">
-        <a href="#">School Profile</a>
+        <a href="README.md">School Profile</a>
         <a href="#">Course Introduction</a>
         <a href="#">School Life</a>
         <a href="#">Contact Us</a>
