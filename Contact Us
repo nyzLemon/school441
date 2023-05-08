@@ -54,8 +54,8 @@
     <div class="nav">
         <a href="School Profile.html">School Profile</a>
         <a href="Course Introduction.html">Course Introduction</a>
-        <a class="active" href="School Life.html">School Life</a>
-        <a href="Contact Us.html">Contact Us</a>
+        <a href="School Life.html">School Life</a>
+        <a class="active" href="Contact Us.html">Contact Us</a>
     </div>
     <div class="main">
         <h2>学校价值观</h2>
