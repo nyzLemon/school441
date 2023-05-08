@@ -51,12 +51,11 @@
     <div class="header">
         电脑信息技术教育学校
     </div>
-    <div class="nav">
-        <a href="#">学校概况</a>
-        <a href="#">教学科研</a>
-        <a href="#">校园生活</a>
-        <a href="#">招生就业</a>
-        <a href="#">联系我们</a>
+    <div class="topnav">
+        <a href="README.md">School Profile</a>
+        <a href="Course Introduction.html">Course Introduction</a>
+        <a href="#">School Life</a>
+        <a href="#">Contact Us</a>
     </div>
     <div class="main">
         <h2>学校价值观</h2>
