@@ -54,7 +54,7 @@
   <div class="nav">
         <a href="School Profile.html">School Profile</a>
         <a href="Course Introduction.html">Course Introduction</a>
-        <a href="School Life.html">School Life</a>
+        <a href="School Life.html">Work</a>
         <a href="Contact Us.html">Contact Us</a>
     </div>
     <div class="main">
