@@ -45,6 +45,10 @@
             padding: 10px;
             text-align: center;
         }
+        img {
+   display: block;
+   margin: auto;
+  }
     </style>
 </head>
 <body>
@@ -62,7 +66,7 @@
         <p>2. The educational certificate we issue is recognized as a valid certificate. </p>
         <p>3. Our school aims to provide RTO education services for people aged 18 and above. </p>
         <p>4. We hope that students who join us can choose their preferred course content from our numerous high-quality courses for learning.</p>
-      
+      <img src="https://user-images.githubusercontent.com/127081560/237013097-d7942cb4-5b07-4081-b03f-74494244b37f.jpg" ></center>
     <div class="main">
         <h2>School Values</h2>
         <p>5. Provide high-quality education that focuses on the personalized needs of students.</p>
