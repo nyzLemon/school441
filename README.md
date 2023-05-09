@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,27 +51,27 @@
     <div class="header">
         Computer Information Technology Education School
     </div>
-  <div class="nav">
-        <a href="School Profile.html">School Profile</a>
+    <div class="nav">
+        <a class="active" href="School Profile.html">School Profile</a>
         <a href="Course Introduction.html">Course Introduction</a>
         <a href="School Life.html">Work</a>
         <a href="Contact Us.html">Contact Us</a>
     </div>
+     <h2>School Profile</h2>
+        <p>1. We are a vocational education college established in 1998 with official ASC certification. </p>
+        <p>2. The educational certificate we issue is recognized as a valid certificate. </p>
+        <p>3. Our school aims to provide RTO education services for people aged 18 and above. </p>
+        <p>4. We hope that students who join us can choose their preferred course content from our numerous high-quality courses for learning.</p>
+      
     <div class="main">
-        <h2>学校价值观</h2>
-        <p>1. 以学生为中心，关注学生的发展和需求。</p>
-        <p>2. 注重实践教学，培养具备实际操作能力的人才。</p>
-        <p>3. 积极拓展合作，与业界保持紧密联系。</p>
+        <h2>School Values</h2>
+        <p>5. Provide high-quality education that focuses on the personalized needs of students.</p>
+        <p>6. Advocate for innovative spirit and actively promote educational reform.</p>
+      
 
-        <h2>课程介绍</h2>
-        <p>在电脑信息技术教育学校，我们提供以下课程：</p>
-        <ul>
-            <li><a href="#">计算机基础</a></li>
-            <li><a href="#">编程语言</a></li>
-            <li><a href="#">网络技术</a></li>
-            <li><a href="#">数据库管理</a></li>
-            <li><a href="#">软件开发</a></li>
-        </ul>
+    
+        
+        
     </div>
     <div class="footer">
         Copyright &copy; Computer Information Technology Education School
